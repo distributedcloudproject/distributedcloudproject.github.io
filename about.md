@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+From September of third year every Computer Applications student in Dublin City University pairs up and picks a project of their liking to implement until the start of March. 
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+We have picked the area of network storage, essentially trying to create our own "Google Drive". 
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Distributed Cloud Storage, written in Go, is a set of programs for creating your own storage servers and accessing them through convenient clients. Take control of your data!
+
+## Site bugs
+
+Report at <https://github.com/distributedcloudproject/distributedcloudproject.github.io/issues>

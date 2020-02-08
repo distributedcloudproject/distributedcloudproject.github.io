@@ -6,16 +6,16 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Distributed Cloud Storage
+# email: no@email.org
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Distributed Cloud Storage - cloud storage that you have complete control over.
+  A project for Dublin City University CA326 (third-year project) module 
+  by Tomas Baltrunas and Bartosz Śwituszak, written in Go. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://distributedcloudproject.github.io/" # the base hostname & protocol for your site
+# twitter_username: notwitterhandle
+github_username:  distributedcloudproject
 
 # Build settings
 markdown: kramdown
