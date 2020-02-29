@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Going forward - a working cloud."
+title:  "Going forward - a working cloud"
 date:   2020-02-28 15:00:00 +0100
 categories: cloud update
 ---
